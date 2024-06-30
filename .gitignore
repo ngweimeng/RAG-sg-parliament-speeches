@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# VS Code files
+.vscode/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files
+data/*.csv
+
+# Python virtual environment
+venv/
+
+# Ignore all log files and temp files
+*.log
+*.tmp
